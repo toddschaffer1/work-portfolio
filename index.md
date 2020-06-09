@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://https://toddschaffer1.github.io/work-portfolio/spark-example/)
+- [Spark SQL ](http://https://toddschaffer1.github.io/work-portfolio/spark-example/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
