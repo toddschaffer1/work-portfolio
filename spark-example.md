@@ -1,11 +1,11 @@
 <!--
-
+                                                               
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="images/spark-logo-hd.png">
+  <a href="https://github.com/github_username/repo">
+    <img src="images/2-3.jpg" alt="Logo" width="300" height="200">
   </a>
-
   <h3 align="center">Spark SQL Project: Assessment and Suggestion for an Updated College Marketing Strategy</h3>
 
   <p align="left">
