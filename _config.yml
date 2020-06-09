@@ -4,11 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   <br><br>
   Highly motivated data analyst with in-depth knowledge of database types; 
-  <br><br>
   research methodologies; and big data capture, curation, manipulation, and visualization. 
-  <br><br>
   Passionate about finding statistical trends through various software packages to make 
-  <br><br>
   informed suggestions about business opportunities. 
   <br><br>
   <br><br>
@@ -18,4 +15,3 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/todd-schaffer/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
