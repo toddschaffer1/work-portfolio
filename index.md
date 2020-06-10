@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1: College Data Analysis Using Spark SQL](/work-portfolio/sample_page)
+[Spark SQL: An Analysis of College University Data Metrics](/work-portfolio/sample_page)
 <img src="images/2-3.jpg" alt="Logo" width="300" height="200"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Artifical Neural Network: Predicting Wine Quality](/work-portfolio/AI-project.md)
+<img src="images/tensor_flow.png" alt="Logo" width="300" height="200"/>
 
 ---
 [Project 3 Title](http://example.com/)
