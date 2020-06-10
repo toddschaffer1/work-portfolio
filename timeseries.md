@@ -26,11 +26,13 @@ y1.ts <- ts(y1)
 ## 2. Simulation Model Plot
 
 
-```{r pressure, echo=FALSE}
+```r
+{r pressure, echo=FALSE}
 
 plot.ts(y1[1:50])
 abline(h=mean(y1))
 ```
+
 <img src="images/1-cob-web.PNG"/>
 
 
