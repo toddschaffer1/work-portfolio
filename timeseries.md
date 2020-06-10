@@ -49,7 +49,8 @@ pacf(y1, lag.max = 10)
 ## 4. Oranges Price Model
 This time series model starts from 1991 to 2004. The frequency is 8 as oranges only sell for 8 months of the year. 
 
-```{r orange prices, echo=FALSE}
+```
+{r orange prices, echo=FALSE}
 
 library(readxl)
 data <- read_xls("Oranges(1).xls")
@@ -60,7 +61,9 @@ orangeprices
 
 ## 5. Oranges Price Model Plot
 There appears to be peaks and valleys in the time series plot of the data implying that the price of oranges flucates between months of the year.
-```{r orange plot, echo=FALSE}
+
+```
+{r orange plot, echo=FALSE}
 
 plot(orangeprices)
 abline(h=mean(orangeprices))
@@ -76,7 +79,8 @@ In the ACF plot, it appears that the there is some correlation between the previ
 
 These plots differ signficantly because the ACF is only measuring the trend between the series and the lagged variables. The PACF is measuring instead the correlation of the residuals. We remove any found variation so it doesn't bias the next sample period.
 
-```{r orange lot, echo=FALSE}
+```
+{r orange lot, echo=FALSE}
 acf(orangeprices)
 pacf(orangeprices)
 
@@ -87,7 +91,8 @@ pacf(orangeprices)
 
 The suggested value of phi is 0.25401.
 
-```{r orange ot, echo=FALSE}
+```
+{r orange ot, echo=FALSE}
 neworanges <- diff(orangeprices)
 lm.orange.model <- dynlm(neworanges~L(neworanges,-8))
 
@@ -95,7 +100,8 @@ lm.orange.model <- dynlm(neworanges~L(neworanges,-8))
 
 ## 8. Simulation with Phi value
 
-```{r orange t, echo=FALSE}
+```
+{r orange t, echo=FALSE}
 equprice <- 14
 phi <- .254
 supplyshock <-rnorm(10000, 0, sqrt(.25))
