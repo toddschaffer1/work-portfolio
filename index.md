@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 ### [Spark SQL: An Analysis of College University Data Metrics](/work-portfolio/sample_page)
 <img src="images/2-3.jpg" alt="Logo" width="300" height="200"/>
 
@@ -17,16 +15,11 @@
 
 ---
 
-### Category Name 2
-
-- [Spark SQL ](http://https://toddschaffer1.github.io/work-portfolio/spark-example/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+### [Map Reducer: Analyzing Wine Demand](/work-portfolio/map-reducer)
+<img src="images/hadoop.png" alt="Logo" width="300" height="200"/>
 
 ---
-
 
 
 
