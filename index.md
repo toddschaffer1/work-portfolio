@@ -8,7 +8,7 @@
 <img src="images/2-3.jpg" alt="Logo" width="300" height="200"/>
 
 ---
-[Artifical Neural Network: Predicting Wine Quality](/work-portfolio/AI-project.md)
+[Artifical Neural Network: Predicting Wine Quality](/work-portfolio/AI-project)
 <img src="images/tensor_flow.png" alt="Logo" width="300" height="200"/>
 
 ---
