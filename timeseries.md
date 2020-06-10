@@ -5,7 +5,8 @@ This project entailed analyzing why prices might be subject to periodic fluctuat
 ## 1. Simulation of the Cob-Web model
 
 
-```{r cars}
+```
+{r cars}
 equprice <- 14
 phi <- -0.6
 supplyshock <-rnorm(10000, 0, sqrt(.25))
